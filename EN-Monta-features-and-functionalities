@@ -1,0 +1,52 @@
+This document describes the core features of Monta’s Charge Point Management System (Monta Hub) and the end-user mobile app (Monta Charge). 
+
+***Monta Hub – CPMS Backend***
+Charge Point & Hardware management: 
+Centralized control of charger configuration, status monitoring, and firmware updates.
+
+Fleet Integration: 
+Connect and manage vehicles, usage tracking, smart scheduling, and centralised reporting for fleet charging
+activities.
+
+Home Charging Reimbursement: 
+Automates reimbursement for home charging and energy use tracking.
+
+Pricing Configuration: 
+Admins can set flexible pricing models per location, time of day, or customer group.
+
+User Access & Role Management: 
+Define roles for admins, operators, or partners with custom permissions.
+
+Live Monitoring & Alerts: 
+Real-time overview of Charge Point status, live usage, and issue alerts.
+
+Reports & Analytics: 
+Exportable insights on energy usage, revenue, user behavior, and station health.
+
+Settlement & Invoicing: 
+Tools for handling payments, commissions, and reconciliation between partners.
+
+***Monta Charge - End User Mobile App***
+Charge Point Search: 
+Allows users to find available public or private charging stations nearby or at a specified location.
+
+Start/Stop Charging Sessions:
+Users can initiate or stop charging with one tap, either via QR scan or remote control through the app.
+
+Payment Integration:
+Multiple payment options supported (credit card, Apple Pay, Google Pay) with transparent pricing.
+
+Charge History:
+Access to previous charging sessions, including time, location, energy used, and cost.
+
+Favorites & Home Charging:
+Mark preferred stations, manage home charger connectivity, and monitor usage.
+
+User Profiles & Roles:
+Account management including family/organization sharing options.
+
+Support & Helpdesk access:
+In-app support channels, FAQs, and contact features to reach the Operator’s support.
+
+
+Version Date: 1.0. - 24 June 2026
